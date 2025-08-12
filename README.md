@@ -18,7 +18,7 @@ DASformer is an innovative time series forecasting model that combines a **dual-
 ## 📦 Installation and Environment Dependencies
 
 ```bash
-git clone https://github.com/yourusername/DASformer.git
+git clone https://github.com/LDU-TSA/DASformer.git
 cd DASformer
 pip install -r requirements.txt
 ````
