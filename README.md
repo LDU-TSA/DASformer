@@ -5,7 +5,7 @@
 
 DASformer is an innovative time series forecasting model that combines a **dual-channel multivariate feature extractor** and an **adaptive multi-scale attention mechanism**, suitable for both multivariate and univariate time series forecasting tasks, including both short-term and long-term predictions. The model achieves state-of-the-art performance on nine real-world benchmark datasets, making it especially applicable in fields such as energy, transportation, finance, and meteorology.
 
-![DASformer Architecture](pic/DASformer architecture..png)
+![DASformer Architecture](DASformer/pic/DASformer architecture..png)
 
 ✨ Key Features
 
